@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275975948328",
+    "firebase_url": "https://healthguidancesystem.firebaseio.com",
+    "project_id": "healthguidancesystem",
+    "storage_bucket": "healthguidancesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275975948328:android:8597d63519803f6fb08d1d",
+        "android_client_info": {
+          "package_name": "com.android.hgs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275975948328-d8skh4tjcu6ikc4rkcsin9qqgps7ci8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOG6v1-z-x5F2hxPjJ-RPKWvHRQeCAGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275975948328-d8skh4tjcu6ikc4rkcsin9qqgps7ci8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
