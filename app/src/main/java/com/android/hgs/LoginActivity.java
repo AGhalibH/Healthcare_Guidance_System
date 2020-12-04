@@ -36,7 +36,7 @@ public class LoginActivity extends AppCompatActivity {
                     editTextPassword.requestFocus();
                 }
                 else if(email.isEmpty() && pwd.isEmpty()){
-                    Toast.makeText(MainActivity.this, "Field Are Empty!",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(RegisterActivity.this, "Field Are Empty!",Toast.LENGTH_SHORT).show();
                 }
                 else if(!(email.isEmpty() && pwd.isEmpty())){
                     mFirebaseAuth
